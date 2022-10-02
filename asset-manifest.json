@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/algo-marekt/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/algo-marekt/static/js/main.bacbb538.chunk.js",
+    "main.js.map": "/algo-marekt/static/js/main.bacbb538.chunk.js.map",
+    "runtime-main.js": "/algo-marekt/static/js/runtime-main.87ebcbb1.js",
+    "runtime-main.js.map": "/algo-marekt/static/js/runtime-main.87ebcbb1.js.map",
+    "static/css/2.6a3a26ec.chunk.css": "/algo-marekt/static/css/2.6a3a26ec.chunk.css",
+    "static/js/2.3c3ac036.chunk.js": "/algo-marekt/static/js/2.3c3ac036.chunk.js",
+    "static/js/2.3c3ac036.chunk.js.map": "/algo-marekt/static/js/2.3c3ac036.chunk.js.map",
+    "static/js/3.e648ce80.chunk.js": "/algo-marekt/static/js/3.e648ce80.chunk.js",
+    "static/js/3.e648ce80.chunk.js.map": "/algo-marekt/static/js/3.e648ce80.chunk.js.map",
+    "index.html": "/algo-marekt/index.html",
+    "static/css/2.6a3a26ec.chunk.css.map": "/algo-marekt/static/css/2.6a3a26ec.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/algo-marekt/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.3c3ac036.chunk.js.LICENSE.txt": "/algo-marekt/static/js/2.3c3ac036.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/algo-marekt/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpeg": "/algo-marekt/static/media/sandwich.2d312449.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ebcbb1.js",
+    "static/css/2.6a3a26ec.chunk.css",
+    "static/js/2.3c3ac036.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.bacbb538.chunk.js"
+  ]
+}
